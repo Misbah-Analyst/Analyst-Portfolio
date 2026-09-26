@@ -1,4 +1,4 @@
-#Misbah-Data Analyst Portfolio
+# Misbah-Data Analyst Portfolio
 Welcome i am aspiring data analyst skilled in excel , SQL , Power BI and Python
 ## Skills
 Excel: Pivot Tables, VLOOKUP , Dashboards
