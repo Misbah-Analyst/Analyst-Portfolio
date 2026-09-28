@@ -8,7 +8,7 @@ Analyze monthly trend of Data Analyst job postings in 2023 using Google Sheets.
 
 ## Steps
 1. Cleaned raw data and created Month-Year column
-2. Built summary table with Total Job Postings per month
+2. Built summary table with Total job postings per month
 3. Created Line Chart to visualize monthly trend
 
 ## Key Insights
@@ -17,4 +17,4 @@ Analyze monthly trend of Data Analyst job postings in 2023 using Google Sheets.
 - Trend helps understand monthly distribution of postings
 
 ## Files
-- monthly-trend-chart.png : Line chart of monthly job postings
+- Monthly Trend Chart.png : Line chart of monthly applications
