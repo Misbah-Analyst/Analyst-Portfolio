@@ -1,12 +1,21 @@
-# Misbah-Data Analyst Portfolio
-Welcome i am aspiring data analyst skilled in excel , SQL , Power BI and Python
-## Skills
-Excel: Pivot Tables, VLOOKUP , Dashboards
-SQL: Joins, Group By, Subqueries
-Power BI: Data Modelling , DAX , Reports
-Python: Pandas , Matplotlib
+# Misbah - Data Analyst Portfolio
+Aspiring Data Analyst | Excel, Data Cleaning, Visualization
+
 ## Projects
-[Excel Sales Dashboard](./Excel-Sales%20Dashboard)
-Analyzed 1,000+ Sales records to find top products and monthly trends.
-## Contact
-GitHub: Misbah-Analyst
+
+### 1. Excel Sales Dashboard
+- Analyzed sales data and created interactive dashboard
+- Tools: Excel, Charts
+- File: Excel-Sales Dashboard
+
+### 2. Data Analyst Jobs 2023 Analysis
+- Explored job market trends for data analysts
+- Folder: Data-Analyst-Jobs-2023
+
+### 3. Lettuce Growth Analysis
+- Analyzed lettuce growth patterns and created visualizations
+- Tools: Excel, Formulas, Charts
+- Link: https://github.com/Misbah-Analyst/Lettuce-Growth-Analysis
+
+---
+Connect with me on Fiverr for data analysis services!
